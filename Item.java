@@ -40,4 +40,16 @@ class Item {
 		//TODO
 		return price/100 * 15
 	}
+	class Receipt {
+	double dodavanje() {
 }
+	double brisenje() {
+	}
+	double vkupenIznos{
+		
+	}
+	
+	}
+		
+	}
+	
